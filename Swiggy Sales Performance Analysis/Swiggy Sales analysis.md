@@ -14,9 +14,9 @@ The dashboard enables stakeholders to monitor **sales performance, customer beha
 
   * Power Query (ETL & data cleaning)
   * Pivot Tables & Pivot Charts
-  * Slicers & Timelines
-  * Excel Data Model
-* Excel formulas (SUM, AVERAGE, COUNT, IF, DATE functions)
+  * Slicers
+  
+* Excel formulas (DATE functions)
 
 ---
 
