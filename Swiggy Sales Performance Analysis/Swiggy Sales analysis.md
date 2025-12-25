@@ -22,6 +22,7 @@ The dashboard enables stakeholders to monitor **sales performance, customer beha
 
 ## 📂 Dataset Description
 
+- Total records: 197,430 order-level transactions
 The dataset contains Swiggy order-level data including:
 
 * Order Date
