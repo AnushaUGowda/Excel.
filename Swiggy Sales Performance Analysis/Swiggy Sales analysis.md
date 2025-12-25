@@ -110,7 +110,7 @@ Below is a snapshot of the interactive Excel dashboard created for this project:
 > *(Includes KPIs, trends, city/state analysis, and Veg vs Non-Veg comparison)*
 
 📷 **Screenshot:**
-*Add the dashboard image here in your GitHub repo and reference it as:*
+"Swiggy dashboard .png"
 
 
 
