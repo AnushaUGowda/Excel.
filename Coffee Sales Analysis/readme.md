@@ -112,6 +112,8 @@ Breakdown:
    
 Returns the value from the exact row and column.
 
+---
+
 ### 🧹 Data Transformation Using IFS (Standardization)
 
 In this project, the IFS function was used to convert short product codes into meaningful full names for better readability and analysis.
