@@ -167,6 +167,10 @@ Slicers – Year, Month, Roast Type, Loyalty Card
 
 All visuals are dynamically connected using slicers.
 
+## Dashboard screenshot
+  <img width="450" height="313" alt="{F0FE85CB-4C71-4686-9418-93B7DCB10AFD}" src="https://github.com/user-attachments/assets/4d01b189-4cd4-46e5-9b1e-abd3833bd2a2" />
+
+
 ## 🔍 Key Insights
 
 * A small group of customers contributes a significant portion of total revenue.
