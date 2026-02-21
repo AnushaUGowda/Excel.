@@ -38,18 +38,7 @@ The dataset contains Swiggy order-level data including:
 
 ---
 
-## 📌 Project Note (GitHub Version)
 
-This repository contains an **optimized, static version** of the Excel dashboard created for portfolio and GitHub sharing purposes.
-
-- The original project follows this flow: **Raw Data → Power Query → Pivot Tables → Dashboard**
-- To meet GitHub’s file size limitations, the **raw data sheet was removed**
-- As a result, **Power Query refresh is disabled** in this shared version
-- All analysis results, pivot outputs, and dashboard visuals remain **intact and viewable**
-
-👉 The **full working version** with raw data and Power Query refresh is maintained **locally**.
-
----
 
 ## 🧩 Data Understanding & Feature Engineering
 
@@ -167,4 +156,17 @@ The dashboard is designed for **quick decision-making**.
 * Translating business questions into KPIs
 * Building interactive dashboards for stakeholders
 * Applying real-world analytical thinking
+
+---
+## 📌 Project Note (GitHub Version)
+
+This repository contains an **optimized, static version** of the Excel dashboard created for portfolio and GitHub sharing purposes.
+
+- The original project follows this flow: **Raw Data → Power Query → Pivot Tables → Dashboard**
+- To meet GitHub’s file size limitations, the **raw data sheet was removed**
+- As a result, **Power Query refresh is disabled** in this shared version
+- All analysis results, pivot outputs, and dashboard visuals remain **intact and viewable**
+
+👉 The **full working version** with raw data and Power Query refresh is maintained **locally**.
+
 
